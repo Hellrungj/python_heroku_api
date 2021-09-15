@@ -23,3 +23,7 @@
 **/secrets.dev.yaml
 **/values.dev.yaml
 README.md
+__pycache__
+*.pyc
+env/
+db.sqlite3
